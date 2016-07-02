@@ -1,0 +1,8 @@
+.status-png{
+    position: absolute;
+    z-index: 1000;
+    margin-top: -420px;
+    margin-left: 800px;
+    margin-bottom: 70px;
+
+}
